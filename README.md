@@ -20,13 +20,13 @@ tensorflow  1.x
 
 ## Demo
 规则写诗-自定韵脚 <br /> 
-![image](https://github.com/ZubinGou/AI_Poet_Totoro/blob/master/Demo/Demo/reg_rhyme.png) <br /> 
+![image](https://github.com/ZubinGou/AI_Poet_Totoro/blob/master/Demo/reg_rhyme.png) <br /> 
 
 规则写诗-现代诗 <br /> 
-![image](https://github.com/ZubinGou/AI_Poet_Totoro/blob/master/Demo/reg_modern.png)
+![image](https://github.com/ZubinGou/AI_Poet_Totoro/blob/master/Demo/reg_modern.png) <br />
 
 规则写诗-自定义格式 <br /> 
-![image](https://github.com/ZubinGou/AI_Poet_Totoro/blob/master/Demo/reg_self.png)
+![image](https://github.com/ZubinGou/AI_Poet_Totoro/blob/master/Demo/reg_self.png) <br />
 
 机器学习写诗-藏头诗<br /> 
 ![image](https://github.com/ZubinGou/AI_Poet_Totoro/blob/master/Demo/ml_head.jpg) <br />

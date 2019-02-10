@@ -29,7 +29,7 @@ tensorflow  1.x
 ![image](https://github.com/ZubinGou/AI_Poet_Totoro/Demo/reg_self.png)
 
 机器学习写诗-藏头诗<br /> 
-![image](https://github.com/ZubinGou/AI_Poet_Totoro/tree/master/Demo/ml_head.jgp) <br />
+![image](https://github.com/ZubinGou/AI_Poet_Totoro/blob/master/Demo/ml_head.jpg) <br />
 
 机器学习写诗-模仿李白<br /> 
 ![image](https://github.com/ZubinGou/AI_Poet_Totoro/tree/master/Demo/ml_imitate.png) <br />

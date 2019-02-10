@@ -19,22 +19,22 @@ tensorflow  1.x
 - https://github.com/norybaby/poet
 
 ## Demo
-规则写诗-自定韵脚 <br /> 
+#### 规则写诗-自定韵脚 <br /> 
 ![image](https://github.com/ZubinGou/AI_Poet_Totoro/blob/master/Demo/reg_rhyme.png) <br /> 
 
-规则写诗-现代诗 <br /> 
+#### 规则写诗-现代诗 <br /> 
 ![image](https://github.com/ZubinGou/AI_Poet_Totoro/blob/master/Demo/reg_modern.png) <br />
 
-规则写诗-自定义格式 <br /> 
+#### 规则写诗-自定义格式 <br /> 
 ![image](https://github.com/ZubinGou/AI_Poet_Totoro/blob/master/Demo/reg_self.png) <br />
 
-机器学习写诗-藏头诗<br /> 
+#### 机器学习写诗-藏头诗<br /> 
 ![image](https://github.com/ZubinGou/AI_Poet_Totoro/blob/master/Demo/ml_head.jpg) <br />
 
-机器学习写诗-模仿李白<br /> 
+#### 机器学习写诗-模仿李白<br /> 
 ![image](https://github.com/ZubinGou/AI_Poet_Totoro/blob/master/Demo/ml_imitate.png) <br />
 
-机器学习写诗-藏字诗<br /> 
+#### 机器学习写诗-藏字诗<br /> 
 ![image](https://github.com/ZubinGou/AI_Poet_Totoro/blob/master/Demo/ml_hide.png) <br />
 
 ### 更多demo参见docx文档

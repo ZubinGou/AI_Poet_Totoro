@@ -26,8 +26,8 @@ tensorflow  1.x
 ![image](https://github.com/ZubinGou/AI_Poet_Totoro/tree/master/Demo/reg_modern.png)
 
 规则写诗-自定义格式 <br /> 
-![image](https://github.com/ZubinGou/AI_Poet_Totoro/tree/master/Demo/reg_self.png) <br />
-
+![image](https://github.com/ZubinGou/AI_Poet_Totoro/tree/master/Demo/reg_self.png)
+![image](https://github.com/norybaby/poet/blob/master/doc/train.png)
 机器学习写诗-藏头诗<br /> 
 ![image](https://github.com/ZubinGou/AI_Poet_Totoro/tree/master/Demo/ml_head.jgp) <br />
 
@@ -37,4 +37,4 @@ tensorflow  1.x
 机器学习写诗-藏字诗<br /> 
 ![image](https://github.com/ZubinGou/AI_Poet_Totoro/tree/master/Demo/ml_hide.png) <br />
 
-###更多demo参见docx文档
+### 更多demo参见docx文档

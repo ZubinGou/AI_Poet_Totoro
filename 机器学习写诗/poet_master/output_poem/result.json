@@ -1,0 +1,18 @@
+{
+  "best_model": "output_poem\\best_model/model-20390",
+  "best_valid_ppl": 21.122426986694336,
+  "latest_model": "output_poem\\save_model/model-20390",
+  "params": {
+    "batch_size": 16,
+    "cell_type": "lstm",
+    "dropout": 0.0,
+    "embedding_size": 128,
+    "hidden_size": 128,
+    "input_dropout": 0.0,
+    "learning_rate": 0.005,
+    "max_grad_norm": 5.0,
+    "num_layers": 2,
+    "num_unrollings": 64
+  },
+  "test_ppl": 25.52116584777832
+}

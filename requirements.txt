@@ -1,0 +1,12 @@
+word2vec
+scipy
+pymssql
+argparse
+gensim
+collections
+worldcloud
+pyecharts-snapshot
+phantomjs
+jupyter-echarts-pypkg==0.1.1
+pypinyin
+snownlp

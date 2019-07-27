@@ -2,7 +2,7 @@ import requests
 import time
 from bs4 import BeautifulSoup
 
-url = "http://www.zgshige.com//c/2018-12-29/8100631.shtml"
+url = "http://my.bupt.edu.cn/index.portal?.p=Znxjb20ud2lzY29tLnBvcnRhbC5zaXRlLnYyLmltcGwuRnJhZ21lbnRXaW5kb3d8ZjE3MzN8dmlld3xub3JtYWx8Z3JvdXBpZD0xODMzMTMwMDAmZ3JvdXBuYW1lPeiuoeeul%2BacuuWtpumZoiZhY3Rpb249YnVsbGV0aW5QYWdlTGlzdA__#anchorf1733"
 t1 = time.time()
 count = 1
 while count < 1000:

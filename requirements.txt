@@ -5,7 +5,6 @@ word2vec
 pymssql
 argparse
 gensim
-collections
 worldcloud
 pyecharts-snapshot
 phantomjs

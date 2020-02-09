@@ -1,6 +1,8 @@
+numpy
 tensorflow
-word2vec
+Cython
 scipy
+word2vec
 pymssql
 argparse
 gensim

@@ -1,4 +1,5 @@
 # AI诗人-Totoro
+![](https://travis-ci.com/ZubinGou/AI_Poet_Totoro.svg?branch=master)
 ![](https://img.shields.io/github/repo-size/ZubinGou/AI_Poet_Totoro)
 ![](https://img.shields.io/github/license/ZubinGou/AI_Poet_Totoro)
 

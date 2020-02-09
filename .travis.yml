@@ -6,7 +6,9 @@ branches:
     - master
 
 install:
+  - pip install numpy
   - pip install tensorflow
+  - pip install word2vec
   # - pip install codecov
 
 script:

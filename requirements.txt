@@ -1,3 +1,4 @@
+tensorflow
 word2vec
 scipy
 pymssql

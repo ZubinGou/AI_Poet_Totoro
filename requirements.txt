@@ -1,6 +1,6 @@
 numpy
 tensorflow
-Cython
+Cpython
 scipy
 word2vec
 pymssql

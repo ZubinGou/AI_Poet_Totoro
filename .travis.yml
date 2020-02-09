@@ -11,3 +11,5 @@ install:
 
 script:
   - python ./规则写诗/poetize.py
+  - 1
+  - 2

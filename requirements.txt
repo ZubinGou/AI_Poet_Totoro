@@ -5,7 +5,7 @@ word2vec
 pymssql
 argparse
 gensim
-worldcloud
+wordcloud
 pyecharts-snapshot
 phantomjs
 jupyter-echarts-pypkg==0.1.1

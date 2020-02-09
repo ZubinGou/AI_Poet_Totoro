@@ -18,8 +18,8 @@ TF_VERSION = int(tf.__version__.split('.')[1])
 def main(args=''):
     args = config_poem_train(args)
     # Specifying location to store model, best model and tensorboard log.
-    args.save_model = os.path.join(args.output_dir, 'save_model/model')
-    args.save_best_model = os.path.join(args.output_dir, 'best_model/model')
+    args.save_model = os.path.join(args.output_dir, 'save_model\\model')
+    args.save_best_model = os.path.join(args.output_dir, 'best_model\\model')
     # args.tb_log_dir = os.path.join(args.output_dir, 'tensorboard_log/')
     timestamp = str(int(time.time()))
     args.tb_log_dir = os.path.abspath(os.path.join(args.output_dir, "tensorboard_log", timestamp))

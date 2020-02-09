@@ -4,13 +4,13 @@ AI诗人-Totoro，她才华横溢，学富五车，能唐诗，善宋词，会�
 更加直观的了解她，可参考xmind思维导图。
 
 ## 环境
-python:3.x <br /> 
+python:3.x <br/> 
 tensorflow  1.x
 
 ## 概述
 - 本项目为小白的期末大作业，机器学习模型来自参考
-- 项目包含：爬虫、数据分析、规则写诗和机器学习写诗
-- 生成诗歌：古诗、词、诗经、现代诗、歌词等
+- 项目包含：爬虫、数据处理、数据分析、规则写诗和机器学习写诗
+- 生成类型：古诗、词、诗经、现代诗、歌词等
 - 详见Totoro介绍.docx文档和思维导图
 - 原项目文件达到8Gb，这里删除了全部图表（可以运行程序重新生成）、大部分数据集和部分代码文件。
 
@@ -19,22 +19,22 @@ tensorflow  1.x
 - https://github.com/norybaby/poet
 
 ## Demo
-#### 规则写诗-自定韵脚 <br /> 
-![image](https://github.com/ZubinGou/AI_Poet_Totoro/blob/master/Demo/reg_rhyme.png) <br /> 
+#### 规则写诗-自定韵脚 <br />
+![image](https://github.com/ZubinGou/AI_Poet_Totoro/blob/master/Demo/reg_rhyme.png) <br />
 
-#### 规则写诗-现代诗 <br /> 
+#### 规则写诗-现代诗 <br />
 ![image](https://github.com/ZubinGou/AI_Poet_Totoro/blob/master/Demo/reg_modern.png) <br />
 
-#### 规则写诗-自定义格式 <br /> 
+#### 规则写诗-自定义格式 <br />
 ![image](https://github.com/ZubinGou/AI_Poet_Totoro/blob/master/Demo/reg_self.png) <br />
 
-#### 机器学习写诗-藏头诗<br /> 
+#### 机器学习写诗-藏头诗<br />
 ![image](https://github.com/ZubinGou/AI_Poet_Totoro/blob/master/Demo/ml_head.jpg) <br />
 
-#### 机器学习写诗-模仿李白<br /> 
+#### 机器学习写诗-模仿李白<br />
 ![image](https://github.com/ZubinGou/AI_Poet_Totoro/blob/master/Demo/ml_imitate.png) <br />
 
-#### 机器学习写诗-藏字诗<br /> 
+#### 机器学习写诗-藏字诗<br />
 ![image](https://github.com/ZubinGou/AI_Poet_Totoro/blob/master/Demo/ml_hide.png) <br />
 
 ### 更多demo参见docx文档

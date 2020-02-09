@@ -3,12 +3,14 @@ import os, sys,time
 import logging
 import math
 import numpy as np
-import tensorflow as tf
+# import tensorflow as tf
+import tensorflow.compat.v1 as tf
 from char_rnn_model import CharRNNLM,SampleType
 from config_poem import config_sample
 from word2vec_helper import Word2Vec
 from rhyme_helper import RhymeWords
 
+tf.compat.v1.disable_eager_execution()
 
 class  WritePoem():
     def __init__(self,args):
@@ -40,7 +42,7 @@ class  WritePoem():
 
         # logging.info('best_model: %s\n', best_model)
 
-        self.sess = tf.Session()
+        self.sess = tf.compat.v1.Session()
         w2v_vocab_size = len(self.w2v.model.vocab)
         with tf.name_scope('evaluation'):
             self.model = CharRNNLM(is_training=False,w2v_model = self.w2v.model,vocab_size=w2v_vocab_size, infer=True, **params)

@@ -6,7 +6,8 @@ import shutil
 import sys
 import time
 import numpy as np
-import tensorflow as tf
+# import tensorflow as tf
+import tensorflow.compat.v1 as tf
 from char_rnn_model import CharRNNLM
 from config_poem import config_poem_train
 from data_loader import DataLoader

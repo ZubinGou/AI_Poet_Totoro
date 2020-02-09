@@ -8,8 +8,8 @@ AI诗人-Totoro，她才华横溢，学富五车，能唐诗，善宋词，会�
 更加直观的了解她，可参考xmind思维导图。
 
 ## 环境
-python:3.x <br/>
-tensorflow  1.x
+python  3.x <br/>
+tensorflow  2.x
 
 ## 概述
 - 本项目为小白的期末大作业，机器学习模型来自参考

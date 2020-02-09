@@ -3,9 +3,10 @@ import time
 from enum import Enum
 import heapq
 import numpy as np
-import tensorflow as tf
+# import tensorflow as tf
+import tensorflow.compat.v1 as tf
 from rhyme_helper import RhymeWords
-import os 
+import os
 
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 

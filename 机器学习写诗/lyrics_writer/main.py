@@ -15,14 +15,14 @@ from tensorflow.contrib import legacy_seq2seq as seq2seq
 '''
 
 # 用flags模块传入参数，这里我用它传入数据集名称，并且为了方便，checkpoint存储目录与数据集共享名字
-tf.app.flags.DEFINE_string('cd', '', """and checkpoint.""")  # 'cd' 即 checkpointDir，存放checkpoint的目录  
+tf.app.flags.DEFINE_string('cd', '', """and checkpoint.""")  # 'cd' 即 checkpointDir，存放checkpoint的目录
 FLAGS = tf.app.flags.FLAGS
-    
+
 
 class Param():
     '''训练参数设置 '''
     batch_size = 128         # 每批数据量的大小  batch_size越小，一个batch的随机性越大，越不易收敛，
-    n_epoch = 10            # 全部样本训练几遍 
+    n_epoch = 10            # 全部样本训练几遍
     learning_rate = 0.01    # 学习率
     decay_steps = 1000      # 每多少batch衰减一次。 采用学习率不断衰减，梯度下降来平衡训练速度和loss损失，得到最佳学习效果
     decay_rate = 0.9        # 衰减率
@@ -169,7 +169,7 @@ def train(data, model, args):
             if i % 10 == 0:
                 writer.add_summary(summary, global_step=i)
                 print('Step:{}/{}, training_loss:{:4f}'.format(i, max_iter, train_loss))
-            if i % 4000 == 0 or (i + 1) == max_iter:
+            if i % 4000 == 0 or (i + 1) == max_iter: # 4000个样本保存一次
                 saver.save(sess, os.path.join('./'+FLAGS.cd, 'model.ckpt'), global_step=i)
 
 

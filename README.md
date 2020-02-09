@@ -1,10 +1,13 @@
 # AI诗人-Totoro
+![](https://img.shields.io/github/repo-size/ZubinGou/AI_Poet_Totoro)
+![](https://img.shields.io/github/license/ZubinGou/AI_Poet_Totoro)
+
 AI诗人-Totoro，她才华横溢，学富五车，能唐诗，善宋词，会元曲，可诗经，能模仿指定诗人，现代诗更是信手拈来，平仄押韵不在话下，更能情感识别、语义联想。
 除却诗词，满腹经纶的她一挥墨宝便是一曲媲美林夕的绝世歌词。<br/>
 更加直观的了解她，可参考xmind思维导图。
 
 ## 环境
-python:3.x <br/> 
+python:3.x <br/>
 tensorflow  1.x
 
 ## 概述

@@ -7,9 +7,9 @@ branches:
 
 install:
   - pip install tensorflow
-  - pip install codecov
+  # - pip install codecov
 
 script:
-  - python ./规则写诗/poetize.py
-  - 1
-  - 2
+  - python ./机器学习写诗/poet_master/main.py 2
+  # - python ./规则写诗/poetize.py
+  # - python ./机器学习写诗/lyrics_writer/main.py 1 -cd modern
